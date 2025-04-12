@@ -3,10 +3,6 @@
   <em>Full Stack Developer | API Architect | Automation Enthusiast</em>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adolfo2231/Adolfo2231/main/banner.jpg" alt="Banner" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
