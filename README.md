@@ -43,6 +43,12 @@ Git & GitHub 🔧, Docker 🐳, Postman 📬, VSCode 💻
   <img src="https://github-readme-stats.vercel.app/api?username=Adolfo2231&show_icons=true&theme=default&hide=contribs,prs" alt="GitHub stats" />
 </p>
 
+### 🧮 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adolfo2231&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
+</p>
+
 ---
 
 ### 🚀 Featured Projects
