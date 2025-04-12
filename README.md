@@ -48,6 +48,10 @@ Git & GitHub 🔧, Docker 🐳, Postman 📬, VSCode 💻
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adolfo2231&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
 </p>
+### 💻 Main Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
