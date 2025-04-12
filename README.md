@@ -58,16 +58,12 @@ I specialize in **backend development**, **API design**, and building tools that
 
 ---
 
-### 📈 GitHub Stats
+### 🧮 Top Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adolfo2231&show_icons=true&theme=default&hide=contribs,prs" alt="GitHub stats" />
-</p>
-
-### 🧮 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adolfo2231&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-5%25-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
