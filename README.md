@@ -3,6 +3,10 @@
   <em>Full Stack Developer | API Architect | Automation Enthusiast</em>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adolfo2231/Adolfo2231/main/banner.png" alt="Banner" style="border-radius: 10px;" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -19,19 +23,24 @@ I specialize in **backend development**, **API design**, and building tools that
 
 ### 🧠 Tech Stack
 
-| 💻 **Languages**  | ⚙️ **Backend**       | 🖥️ **Frontend**       | 🛠️ **Tools**             |
-|------------------|----------------------|------------------------|---------------------------|
-| Python 🐍        | Flask 🌶             | HTML5 📄               | Git & GitHub 🔧           |
-| JavaScript ⚡     | SQLAlchemy 🛢️       | CSS3 🎨                | Docker 🐳                 |
-| Bash 🖥️          | REST APIs 📡         | Vanilla JS 🧩          | Postman 📬                |
-| C 🧠              | Alembic 🧱           | Chart.js 📊             | VSCode 💻                 |
+**Languages:**  
+Python 🐍, JavaScript ⚡, Bash 🖥️, C 🧠
+
+**Backend:**  
+Flask 🌶, SQLAlchemy 🛢️, REST APIs 📡, Alembic 🧱
+
+**Frontend:**  
+HTML5 📄, CSS3 🎨, Vanilla JS 🧩, Chart.js 📊
+
+**Tools:**  
+Git & GitHub 🔧, Docker 🐳, Postman 📬, VSCode 💻
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adolfo-rodriguez&show_icons=true&theme=default&hide=contribs,prs" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adolfo2231&show_icons=true&theme=default&hide=contribs,prs" alt="GitHub stats" />
 </p>
 
 ---
