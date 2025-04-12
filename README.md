@@ -3,8 +3,9 @@
   <em>Full Stack Developer | API Architect | Automation Enthusiast</em>
 </p>
 
-<img src="https://raw.githubusercontent.com/Adolfo2231/Adolfo2231/main/banner.jpg" alt="Banner" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adolfo2231/Adolfo2231/main/banner.jpg" alt="Banner" />
+</p>
 
 ---
 
@@ -27,11 +28,16 @@ I specialize in **backend development**, **API design**, and building tools that
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
+---
+
 ### 🔧 Backend
 
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-BA1212?style=flat&logo=sqlalchemy&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-0052CC?style=flat)
+![Alembic](https://img.shields.io/badge/-Alembic-CC4444?style=flat)
+
+---
 
 ### 🎨 Frontend
 
@@ -40,6 +46,8 @@ I specialize in **backend development**, **API design**, and building tools that
 ![Vanilla JS](https://img.shields.io/badge/-Vanilla%20JS-F0DB4F?style=flat&logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
+---
+
 ### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -47,7 +55,6 @@ I specialize in **backend development**, **API design**, and building tools that
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Alembic](https://img.shields.io/badge/-Alembic-CC4444?style=flat)
 
 ---
 
@@ -86,3 +93,4 @@ I specialize in **backend development**, **API design**, and building tools that
 <p align="center">
   <em>“Clean code is not a luxury — it’s a responsibility.”</em>
 </p>
+
