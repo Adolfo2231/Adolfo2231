@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adolfo2231/Adolfo2231/main/banner.png" alt="Banner" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/Adolfo2231/Adolfo2231/main/banner.png" alt="Banner" />
 </p>
 
 ---
@@ -21,19 +21,34 @@ I specialize in **backend development**, **API design**, and building tools that
 
 ---
 
-### 🧠 Tech Stack
+### 💻 Main Languages
 
-**Languages:**  
-Python 🐍, JavaScript ⚡, Bash 🖥️, C 🧠
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Backend:**  
-Flask 🌶, SQLAlchemy 🛢️, REST APIs 📡, Alembic 🧱
+### 🔧 Backend
 
-**Frontend:**  
-HTML5 📄, CSS3 🎨, Vanilla JS 🧩, Chart.js 📊
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-BA1212?style=flat&logo=sqlalchemy&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-0052CC?style=flat)
 
-**Tools:**  
-Git & GitHub 🔧, Docker 🐳, Postman 📬, VSCode 💻
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vanilla JS](https://img.shields.io/badge/-Vanilla%20JS-F0DB4F?style=flat&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Alembic](https://img.shields.io/badge/-Alembic-CC4444?style=flat)
 
 ---
 
@@ -48,10 +63,6 @@ Git & GitHub 🔧, Docker 🐳, Postman 📬, VSCode 💻
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adolfo2231&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
 </p>
-### 💻 Main Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
