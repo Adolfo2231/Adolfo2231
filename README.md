@@ -1,80 +1,65 @@
 # Hey, I'm Adolfo 👋
 
-**Full Stack Developer | Backend-Focused | API Architect | Automation Enthusiast**
+I'm a **Backend Developer** focused on building REST APIs and backend systems with **Python, FastAPI, SQLAlchemy, and PostgreSQL**.
 
-I’m passionate about building meaningful software that solves real-world problems.  
-I specialize in **backend development, RESTful API design**, and tools that **automate and scale** efficiently.
+I enjoy working on API design, database modeling, authentication, testing, and clean backend architecture.
 
----
+Currently building **Billax 2.0**, a personal finance application where I'm applying these concepts in a production-style backend project.
 
-## 🔭 Currently Working On
+## 🛠 Backend Stack
 
-- 🧩 **Modular Trading Bot** – Real-time crypto trading using Binance API with RSI & EMA strategies, CSV logging, and Telegram alerts.  
-- 📅 **Calendar Application** – Full-featured event and reminder manager built with FastAPI and React.
+**Python · FastAPI · SQLAlchemy · PostgreSQL · Alembic · Pydantic · Pytest**
 
----
+**APIs & Authentication:** REST APIs · JWT · OAuth2 · bcrypt
 
-## 💻 Main Languages
+**Tools:** Git · GitHub · Docker · Linux · VS Code
 
-**Python** · **JavaScript** · **C** · **Bash**
+## 🚀 Featured Project
 
----
+### Billax 2.0 — Personal Finance API
 
-## 🔧 Backend Stack
+A backend-focused personal finance application built with **FastAPI and PostgreSQL**.
 
-**Frameworks & Libraries:** Flask · FastAPI · SQLAlchemy · REST APIs · Alembic · JWT  
+The project is being developed with a layered architecture:
 
----
+`API → Service → Repository → Database`
 
-## 🎨 Frontend Stack
+### Currently implemented
 
-HTML5 · CSS3 · JavaScript · React 18+ · Vite · Axios  
+* User registration and secure password hashing
+* JWT-based authentication
+* Protected API endpoints
+* SQLAlchemy models and relationships
+* PostgreSQL database integration
+* Database migrations with Alembic
+* Automated authentication tests with pytest
+* Centralized exception handling
+* Environment-based application configuration
 
----
+### Tech Stack
 
-## 🛠 Tools & Environment
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Alembic` · `Pydantic` · `JWT` · `Pytest`
 
-Git · GitHub · Docker · VS Code  
+> Billax 2.0 is actively under development as I continue expanding the financial domain and strengthening the backend architecture.
 
----
+## 📚 Currently Improving
 
-## 🚀 Featured Projects
+* Advanced Python fundamentals
+* SQL and PostgreSQL
+* Backend architecture and design patterns
+* Automated testing
+* Docker and application containerization
 
-### **Billax – Personal Finance System**
-Backend-driven app for budgeting and expense tracking.  
-- RESTful APIs built with Flask  
-- Plaid API for bank data integration  
-- OpenAI API for intelligent financial insights  
-- Layered architecture (API → Service → Repository)
+## 🎯 Career Focus
 
-### **Modular Trading Bot**
-Real-time crypto trading bot with Binance API.  
-- RSI and EMA strategy automation  
-- CSV logging and Telegram notifications
-
-### **Calendar Application** 📅
-Event and reminder management system built with FastAPI (backend) and React (frontend).  
-- Event management: create, edit, delete  
-- Custom reminders and search functionality  
-- JWT authentication and Swagger API documentation  
-
-**Backend:** FastAPI · SQLAlchemy · PostgreSQL / SQLite · JWT + bcrypt  
-**Frontend:** React 18+ · JavaScript (ES6+) · Vite · Axios  
-
----
+I'm currently looking for opportunities as a **Junior Backend Developer / Junior Python Developer**, where I can contribute to backend systems while continuing to grow as a software engineer.
 
 ## 🌍 Languages
 
-- Spanish 🇪🇸 — Native  
-- English 🇺🇸 — Intermediate  
-
----
+* Spanish — Native
+* English — Intermediate
 
 ## 📫 Let's Connect
 
-- Email: [adolfo.rodriguez2231@gmail.com](mailto:adolfo.rodriguez2231@gmail.com)
-- LinkedIn: [linkedin.com/in/adolfo-rodriguez2231](https://www.linkedin.com/in/adolfo-rodriguez2231/)
-
----
-
-> Focused on building **clean, maintainable, and scalable backend systems**.
+* Email: [adolfo.rodriguez2231@gmail.com](mailto:adolfo.rodriguez2231@gmail.com)
+* LinkedIn: linkedin.com/in/adolfo-rodriguez2231
